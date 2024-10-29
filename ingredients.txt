@@ -1,2 +1,7 @@
 avocado
+Lime
+cilantro
+salt
+tomato
+hot peppers
 
